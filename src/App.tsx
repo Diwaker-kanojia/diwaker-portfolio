@@ -2,7 +2,6 @@ import { createTheme, MantineProvider } from "@mantine/core";
 import "@mantine/core/styles.css";
 import Home from "./pages/Home";
 import { pdfjs } from "react-pdf";
-import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
 import { Toaster } from "react-hot-toast";
