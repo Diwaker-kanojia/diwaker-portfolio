@@ -59,8 +59,8 @@ const ProjectInfo = [
     image: "News&Blog.png",
     live: true,
     technologies: ["React", "Tailwind", "Axios", "Weather API", "News API"],
-    link: "https://news-blogs-eosin.vercel.app",
-    github: "https://github.com/Diwaker-kanojia/News-Blogs",
+    link: "https://new-blog-azure-six.vercel.app/",
+    github: "https://github.com/Diwaker-kanojia/news-blog",
   },
   {
     title: "Admin Dashboard",
